@@ -1,0 +1,11 @@
+C:\Users\F\Documents\GitHub\Data-Insertion\bin\Debug\netcoreapp2.1\Data-Inserter.deps.json
+C:\Users\F\Documents\GitHub\Data-Insertion\bin\Debug\netcoreapp2.1\Data-Inserter.runtimeconfig.json
+C:\Users\F\Documents\GitHub\Data-Insertion\bin\Debug\netcoreapp2.1\Data-Inserter.runtimeconfig.dev.json
+C:\Users\F\Documents\GitHub\Data-Insertion\bin\Debug\netcoreapp2.1\Data-Inserter.dll
+C:\Users\F\Documents\GitHub\Data-Insertion\bin\Debug\netcoreapp2.1\Data-Inserter.pdb
+C:\Users\F\Documents\GitHub\Data-Insertion\obj\Debug\netcoreapp2.1\Data-Inserter.csprojAssemblyReference.cache
+C:\Users\F\Documents\GitHub\Data-Insertion\obj\Debug\netcoreapp2.1\Data-Inserter.csproj.CoreCompileInputs.cache
+C:\Users\F\Documents\GitHub\Data-Insertion\obj\Debug\netcoreapp2.1\Data-Inserter.AssemblyInfoInputs.cache
+C:\Users\F\Documents\GitHub\Data-Insertion\obj\Debug\netcoreapp2.1\Data-Inserter.AssemblyInfo.cs
+C:\Users\F\Documents\GitHub\Data-Insertion\obj\Debug\netcoreapp2.1\Data-Inserter.dll
+C:\Users\F\Documents\GitHub\Data-Insertion\obj\Debug\netcoreapp2.1\Data-Inserter.pdb
